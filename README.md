@@ -39,8 +39,3 @@ pip install -r requirements.txt
 python main.py --self-test     # verify setup, no network calls
 python main.py --no-send       # try it with live data, no Telegram needed
 ```
-
-Then follow SETUP.md to add Telegram (and optionally FRED/NewsAPI keys)
-for the full experience.
-
-This tool is informational only and is not financial advice.
